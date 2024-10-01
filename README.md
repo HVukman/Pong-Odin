@@ -1,5 +1,6 @@
 # Pong-Odin
 ## Pong in Odin with SDL2
+![Example game.](pong.gif)
 
 ## Controls
 Start with anykey. Up/Down/W/S for up and down for the players. Space to Pause. R to reset.
